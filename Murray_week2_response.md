@@ -14,4 +14,5 @@ Her name is *Eliza* and she is a **machine**.
 
 [link to Youtube Video](https://www.youtube.com/watch?v=RMK9AphfLco&t=5s)
 
-![Image]("E:\Spring Semester 2021\IDEAS 120\Beyond-AI.jpg")
+![ai-banner1800x650](https://user-images.githubusercontent.com/71411491/105380189-3a57ed00-5bd3-11eb-83d0-15731e3c46e3.jpg)
+
