@@ -6,9 +6,9 @@ She is an **intelligent** being like us,
 
 even fixed to understand us.
 
-We are complex, but her **strong** engine can withstand that.
+We are **complex**, but her **strong** engine can withstand that.
 
-She can be anything, even a friend.
+She can be anything, even a **friend**.
 
 Her name is *Eliza* and she is a **machine**.
 
