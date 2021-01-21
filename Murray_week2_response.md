@@ -13,3 +13,5 @@ She can be anything, even a **friend**.
 Her name is *Eliza* and she is a **machine**.
 
 [link to Youtube Video](https://www.youtube.com/watch?v=RMK9AphfLco&t=5s)
+
+![Image]("E:\Spring Semester 2021\IDEAS 120\Beyond-AI.jpg")
