@@ -1,5 +1,7 @@
 # Lore Olympus
 
+## By Jamaica Spencer
+
 ![Lore Olympus](https://user-images.githubusercontent.com/71411491/106788316-6aad7b80-6616-11eb-8748-075df7db5d58.jpg)
 
 
@@ -11,13 +13,14 @@ actual information about it like viewing or researching it.
 
 
 
-Linguistic Message
+**Linguistic Message**
+
 "Lore Olympus: Love can find its way to hell"
 
 -A love story that takes place in a Greek mythology inspired time line
 
 
-Non-Coded Message(Symbolic or Connoted Message)
+**Non-Coded Message(Symbolic or Connoted Message)**
 
 -Red Background conveys the emotions of dark and mysterious.
 
@@ -30,7 +33,7 @@ Non-Coded Message(Symbolic or Connoted Message)
 -White flower: symbolizes purity and goodness.
 
 
-Coded message (Literal Image or Denotated Message)
+**Coded message (Literal Image or Denotated Message)**
 
 Man holding woman up by her neck and as she strokes his cheek. Both holding each other and gazing into each others eyes.
 
