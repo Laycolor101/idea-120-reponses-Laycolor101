@@ -20,13 +20,18 @@ Linguistic Message
 Non-Coded Message(Symbolic or Connoted Message)
 
 -Red Background conveys the emotions of dark and mysterious.
+
 -Pink Woman and Blue Man: Contrasting colors, meaning the characters are opposites who are attracted to each other.
+
 -Blue Man: Conveys characters emotions as loneliness, sad and sorrow
+
 -Pink Women: Conveys characters emotions as vibrant, love and kindness
+
 -White flower: symbolizes purity and goodness.
 
 
 Coded message (Literal Image or Denotated Message)
+
 Man holding woman up by her neck and as she strokes his cheek. Both holding each other and gazing into each others eyes.
 
 -A romantic interaction between the two is taking place.
