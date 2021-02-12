@@ -20,6 +20,7 @@ actual information about it like viewing or researching it.
 -A love story that takes place in a Greek mythology inspired time line
 
 
+
 **Non-Coded Message(Symbolic or Connoted Message)**
 
 -Red Background conveys the emotions of dark and mysterious.
@@ -31,6 +32,7 @@ actual information about it like viewing or researching it.
 -Pink Women: Conveys characters emotions as vibrant, love and kindness
 
 -White flower: symbolizes purity and goodness.
+
 
 
 **Coded message (Literal Image or Denotated Message)**
