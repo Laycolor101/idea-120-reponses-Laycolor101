@@ -16,16 +16,24 @@ Project 1 is a poem based on how troubling is to be scammed through the occurren
 
 Project 2 is about what it’s like to live like an ant and what they experience.
 
-Ant life video
-Cheerful music
-List of ant facts
-Nature colors: Green brown, blue
-Photos of ants and ant hills
+*Ant life video
+
+*Cheerful music
+
+*List of ant facts
+
+*Nature colors: Green brown, blue
+
+*Photos of ants and ant hills
 
 Project 3 is about the life of a teenager named Kalanie Murphy who gets superpowers and becomes known as Jaguar Girl.
 
-Story of Jaguar Girl
-Hero music
-Photo of Jaguar Girl
-Photos of jaguar prints and tiger claws.
-Colors: Orange, black, white
+*Story of Jaguar Girl
+
+*Hero music
+
+*Photo of Jaguar Girl
+
+*Photos of jaguar prints and tiger claws.
+
+*Colors: Orange, black, white
