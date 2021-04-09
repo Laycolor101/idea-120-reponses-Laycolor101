@@ -8,9 +8,9 @@ I want each of my projects to be presented on their own pages that way I can sho
 
 Project 1 is a poem based on how troubling is to be scammed through the occurrence of various false emails which people commonly fall for.
 
-Black and white themed.
-Photos of scammer emails and warning signs
-Sound recording of video being read by me.
+*Black and white themed.
+*Photos of scammer emails and warning signs
+*Sound recording of video being read by me.
 
 Project 2 is about what it’s like to live like an ant and what they experience.
 
